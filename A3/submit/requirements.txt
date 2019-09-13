@@ -1,0 +1,11 @@
+ The following libraries (latest versions) for PYTHON 3.5 are required:
+
+torch
+torchvision
+numpy
+matplotlib
+opencv 
+copy
+os
+math
+xml
